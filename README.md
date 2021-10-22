@@ -4,7 +4,7 @@
 
 We are a group of aspiring computer scientists who eagerly and continuously learn cool tech stuffs!
 
-### 🫂 The Community
+### ✨ The Community
 
 In this community, we strive to help each other grow and be more comfortable with computer science.
 
